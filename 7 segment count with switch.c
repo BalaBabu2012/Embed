@@ -10,8 +10,8 @@ void main()
   TRISC=0X00;
   PORTC=0X00;
   RC0=1;
-  int a[]={0X03,0X9F,0X25,0X0D,0X99,0X49,0X41,0X1F,0X01,0X09};
-  
+  int a[]={0X03,0X9F,0X25,0X0D,0X99,0X49,0X41,0X1F,0X01,0X09}; 
+  // hello
  if(RC0==0)
    {
     while(RC0==0);
